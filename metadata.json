@@ -1,0 +1,5 @@
+{
+  "name": "Philippine Government Seminar Management System",
+  "description": "A comprehensive system to manage seminar registrations, track attendance, and automatically generate and distribute official certificates for Philippine government events.",
+  "requestFramePermissions": []
+}
